@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheapChomp</string>
+    <string name="google_maps_key" translatable="false">API_KEY</string>
+    <string name="default_web_client_id">114464307344-44vq0cmhh0cb85e1hmci1qtkilfbv70c.apps.googleusercontent.com</string>
+</resources>
